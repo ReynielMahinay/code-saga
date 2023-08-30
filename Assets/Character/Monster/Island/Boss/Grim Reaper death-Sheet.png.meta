@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: d5c1e98683ee820468ee90cd0c7fa3f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579740bb798fc5499c225141dcb5f83
+      internalID: -106753907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1792
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca060c8599b54c469a9cd2d8dbd7958
+      internalID: 492650476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1792
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ba948adf4f0c4f93972b9900e2d72
+      internalID: -1258997003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1792
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af0ed0afe5cc2244b8c1a23e0ed095b
+      internalID: -1918925548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1792
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51900e638d69a30469f2976db0281c75
+      internalID: 702236108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3067962e0b5f8428654842f4502fd3
+      internalID: 2028080597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1344
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eef4a48da27f7a43ac7135b7791d015
+      internalID: -904600312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1344
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c9ccaa57ccc5c4d94c6c2c9d9065db
+      internalID: 850740838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1344
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805bb068e34b7774fab6270845afd7b7
+      internalID: -907400983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1344
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1751a00a904640ad88e873fcca09f
+      internalID: 1544787000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe5a5cbaab3404d8260da6c021b0a2
+      internalID: 616888066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 896
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258984f0bcd03754bbe66e944899bcb1
+      internalID: -316031782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 896
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1f9c9306f92e40a291a7a80846d1b
+      internalID: 2031899777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 896
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f199a7a01652d24897730d3161e0337
+      internalID: -442818106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 896
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec7a759ffd9a6c4c86025999caaf4f0
+      internalID: -745073455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c8fd1c357f634faa6f83a648973cb
+      internalID: 996926204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 448
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0daece06c78b1c4ab7221a43c9df63c
+      internalID: -1954479364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 448
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce27f3b48e61f48a2592d65e1302a5
+      internalID: 1387884167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 448
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfa75270db9c824da32adf238aa663f
+      internalID: -1589867350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 448
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92077663c474c408699063210d3262
+      internalID: -1643023491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a2408f41478145a2082c77dd3f1ff
+      internalID: -1196226792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91460ffa03ac0b4c902a2978fb4a168
+      internalID: -1287437588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e0a65beb342a48aef450f8ebf9c0f
+      internalID: 1438553628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grim Reaper death-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 0
+        width: 464
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b90cf09f70d640afe828b02423aa3
+      internalID: 741725732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Grim Reaper death-Sheet_10: 616888066
+      Grim Reaper death-Sheet_4: 702236108
+      Grim Reaper death-Sheet_5: 2028080597
+      Grim Reaper death-Sheet_2: -1258997003
+      Grim Reaper death-Sheet_1: 492650476
+      Grim Reaper death-Sheet_17: 1387884167
+      Grim Reaper death-Sheet_6: -904600312
+      Grim Reaper death-Sheet_11: -316031782
+      Grim Reaper death-Sheet_0: -106753907
+      Grim Reaper death-Sheet_20: -1196226792
+      Grim Reaper death-Sheet_7: 850740838
+      Grim Reaper death-Sheet_13: -442818106
+      Grim Reaper death-Sheet_3: -1918925548
+      Grim Reaper death-Sheet_9: 1544787000
+      Grim Reaper death-Sheet_16: -1954479364
+      Grim Reaper death-Sheet_8: -907400983
+      Grim Reaper death-Sheet_15: 996926204
+      Grim Reaper death-Sheet_18: -1589867350
+      Grim Reaper death-Sheet_21: -1287437588
+      Grim Reaper death-Sheet_19: -1643023491
+      Grim Reaper death-Sheet_14: -745073455
+      Grim Reaper death-Sheet_12: 2031899777
+      Grim Reaper death-Sheet_23: 741725732
+      Grim Reaper death-Sheet_22: 1438553628
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
